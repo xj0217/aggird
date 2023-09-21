@@ -1,0 +1,10 @@
+{
+  "name": "aggird",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+  },
+  "author": "xujie@keyfunc.com",
+  "license": "MIT"
+}
